@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'angular-dymaprojone';
+  title = 'angular-dyma-project-';
+  users = 'Dyma Team Angular';
 }
